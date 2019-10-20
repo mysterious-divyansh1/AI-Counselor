@@ -1,4 +1,4 @@
-# Description of Project
+# AI-Counselor
  
 Problem Statment- We as a team is trying to solve a very crucial problem of today's era i.e 
 #Consequences of Generation Gap and increasing rate of Depression.
