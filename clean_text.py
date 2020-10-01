@@ -10,7 +10,9 @@ def clean_text(text):
     stops = set(stopwords.words("english"))
     text = [w for w in text if not w in stops and len(w) >= 3]
     
-    text = " ".join(text)
+    text = input.split()
+    str.join(text)
+    str.lower(text)
 
     # Clean the text
     text = re.sub(r"[^A-Za-z0-9^,!.\/'+-=]", " ", text)
